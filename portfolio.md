@@ -12,5 +12,5 @@ permalink: /portfolio/
 
 ![Physics 1]({{site.baseurl}}/assets/images/portfolio/Basketball_Trajectory_3.png)
 
-### [OpenGL Asteroids Project]({{ site.baseurl }}/portfolio/pewpew)
+### [OpenGL Asteroids Project]({{ site.baseurl }}/projects/pewpew)
 
