@@ -5,6 +5,7 @@
 - name: Projects 
   link: /projects/
 - name: Portfolio
-  link: /portfolio/
-- name: RubeGold
-  link: /portfolio/rubegold
+  link: /portfolio/ 
+- link: /portfolio/rubegold
+- link: /portfolio/Physics
+- link: portfolio/pewpew
