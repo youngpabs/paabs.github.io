@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 ![Rube Goldberg 1]({{site.baseurl}}/assets/images/portfolio/Cannon_Asset.gif)
 
-### [Roblox Physics]({{ site.baseurl }}/portfolio/Physics)
+### [Roblox Physics]({{ site.baseurl }}/portfolio/physics)
 
 ![Physics 1]({{site.baseurl}}/assets/images/portfolio/Basketball_Trajectory_3.png)
 
