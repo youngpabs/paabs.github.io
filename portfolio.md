@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### [Roblox Rube Goldberg Machines]({{ site.baseurl }}/portfolio/RubeGold)
+### [Roblox Rube Goldberg Machines]({{ site.baseurl }}/portfolio/rubegold)
 
 ![Rube Goldberg 1]({{site.baseurl}}/assets/images/portfolio/Cannon_Asset.gif)
 
