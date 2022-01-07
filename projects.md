@@ -29,4 +29,4 @@ Unity game I have been slowly making progress too with my own pixel-art and spri
 
 [**Roblox Physics**]({{site.baseurl}}/portfolio/physics/)
 
-[**Roblox Rube Goldberg Machines**]({{site.baseurl}}/portfolio/rubegold/)
+[**Roblox Rube Goldberg Machines**]({{site.baseurl}}/portfolio/rubegold)
