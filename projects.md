@@ -25,8 +25,8 @@ Unity game I have been slowly making progress too with my own pixel-art and spri
 
 ## Past Projects
 
-[**OpenGL Pew-Pew**]({{site.baseurl}}/portfolio/pewpew/)
+[**OpenGL Pew-Pew**]({{site.baseurl}}/portfolio/pewpew)
 
-[**Roblox Physics**]({{site.baseurl}}/portfolio/physics/)
+[**Roblox Physics**]({{site.baseurl}}/portfolio/physics)
 
 [**Roblox Rube Goldberg Machines**]({{site.baseurl}}/portfolio/rubegold)
