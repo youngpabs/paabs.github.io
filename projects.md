@@ -12,7 +12,7 @@ Game I intended on creating for the Open Game Art's Summer game jam but ran out 
 the Unity Engine and helping myself become more comfortable developing my own things in Unity. 
 
 **Twitch Chat Bot** *Mar 21' - Present* <br />
-Chat bot for Twitch used for community inspired commands! Click this [link](twitch.tv/jotchubot) and if you have a Twitch account try typing !hello or !jotchuacheck 
+Chat bot for Twitch used for community inspired commands! Click this [link](https://twitch.tv/jotchubot) and if you have a Twitch account try typing !hello or !jotchuacheck 
 
 **Discord Chat Bot** *Jan 21' - Present'* <br />
 Chat bot used for making silly chat interactions on my discord server! 
