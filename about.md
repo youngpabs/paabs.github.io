@@ -9,17 +9,19 @@ Hi there! Thanks for checking this website out. I'm a soon to be graduated Compu
 ### Software
 
 With software engineering, I have heavy interest with UI Design, Machine Learning, and Graphics Programming. One of my current projects is my Senior Capstone Project. I'll be working with web-scraping algorithms, database management, and UI design for a client-side application. 
-**Constanstly using**
+**Constantly using**
 - C++
+- Javascript
+- Node.js
 - C#
 - LUA
-- SQL
 - Python
 
 **Experience with**
 - HTML
 - PHP
 - OpenGL
+- SQL
 - noSQL
 - MongoDB
 - mySQL
@@ -28,9 +30,11 @@ With software engineering, I have heavy interest with UI Design, Machine Learnin
 
 ### Video Games
 
- As for video game development, I have loved video games all of my life and dabbling in development with my current Roblox has peaked my interest in video game design and programming. You can check out some of my Roblox work here in my [portfolio]({{ site.baseurl }}/portfolio/). 
+I have loved video games all of my life and dabbling in development with my current Roblox has peaked my interest in video game design and programming. You can check out some of my Roblox work here in my [portfolio]({{ site.baseurl }}/portfolio/). 
  Some of my favorite games include:
  - Pokemon 
+ - Fallout New Vegas
+ - Skyrim
  - Hollow Knight
  - Stardew Valley
 
