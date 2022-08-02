@@ -7,7 +7,7 @@ permalink: /projects/
 ## Active Projects
 
 
-**Open-Game Art Game Jam Submission* *July 21' - Present'* <br />
+**Open-Game Art Game Jam Submission** *July 21' - Present'* <br />
 Game I intended on creating for the Open Game Art's Summer game jam but ran out of time! I like the idea I have had and wanna flush it out more as a mini-game experience teaching myself more about
 the Unity Engine and helping myself become more comfortable developing my own things in Unity. 
 
