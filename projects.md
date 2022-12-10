@@ -6,11 +6,6 @@ permalink: /projects/
 
 ## Active Projects
 
-
-**Open-Game Art Game Jam Submission** *July 21' - Present'* <br />
-Game I intended on creating for the Open Game Art's Summer game jam but ran out of time! I like the idea I have had and wanna flush it out more as a mini-game experience teaching myself more about
-the Unity Engine and helping myself become more comfortable developing my own things in Unity. 
-
 **Twitch Chat Bot** *Mar 21' - Present* <br />
 Chat bot for Twitch used for community inspired commands! Click this [link](https://twitch.tv/jotchubot) and if you have a Twitch account try typing !hello or !jotchuacheck 
 
@@ -26,6 +21,10 @@ Project revolved around using mongoDB database, python webscraping, and creating
 
 **PixelMon Server** <br />
 An idea I had to create a Minecraft server revolved around the Pixelmon mod trying to replicate a pokemon experience in a custom map with custom quests and more. It's a small team of friends on the project helping with world building and planning for this server. 
+
+**Open-Game Art Game Jam Submission** *July 21'* <br />
+Game I intended on creating for the Open Game Art's Summer game jam but ran out of time! I like the idea I have had and wanna flush it out more as a mini-game experience teaching myself more about
+the Unity Engine and helping myself become more comfortable developing my own things in Unity. 
 
 ![Pixelmon]({{site.baseurl}}/assets/images/projects/Pixelmon.png)
 
