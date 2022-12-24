@@ -8,7 +8,7 @@ permalink: /projects/
 
 **Unity Game Project** *July 22' - Present* <br />
 Small Unity Engine 2D project I used to get me more familiar with the engine. Taught myself how to animate and use sprites from a sprite sheet, create character movement, create NPC simple dialogue, and create a user interaction system. 
-<iframe class="game" src="{{site.baseurl}}/assets/projects/AstroDem/index.html" style="border: none; width: 1550px; height: 930px;" allowfullScreen allow="gamepad *;"></iframe> 
+<iframe class="game" src="{{site.baseurl}}/assets/projects/AstroDem/index.html" style="border: none; width: 800px; height: 480px;" allowfullScreen allow="gamepad *;"></iframe> 
 
 **Twitch Chat Bot** *Mar 21' - Present* <br />
 Chat bot for Twitch used for community inspired commands! Click this [link](https://twitch.tv/jotchubot) and if you have a Twitch account try typing !hello or !jotchuacheck 
