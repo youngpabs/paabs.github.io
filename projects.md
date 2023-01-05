@@ -11,7 +11,7 @@ Small Unity Engine 2D project I used to get me more familiar with the engine. Ta
 <iframe class="game" src="{{site.baseurl}}/assets/projects/AstroDem/index.html" style="border: none; width: 1550px; height: 930px;" allowfullScreen allow="gamepad *;"></iframe> 
 
 **Twitch Chat Bot** *Mar 21' - Present* <br />
-Chat bot for Twitch used for community inspired commands! Click this [link](https://twitch.tv/jotchubot) and if you have a Twitch account try typing !hello or !jotchuacheck 
+Chat bot for Twitch used for community inspired commands! Click this [link](https://twitch.tv/mecha_gremlin) and if you have a Twitch account try typing !hello or !jotchuacheck 
 
 **Discord Chat Bot** *Jan 21' - Present'* <br />
 Chat bot used for making silly chat interactions on my discord server! 
