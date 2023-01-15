@@ -4,7 +4,7 @@ title: Rube Goldberg Machines
 permalink: /portfolio/rubegold
 ---
 
-This project was a sole developer position I had for about 3-4 months. This camp was revolved around giving campers a secondary course to move onto and apply the physics they learned in the physics camp. Campers are given an electric sphere asset and a power bulb asset, where they are challenged to create a rube goldberg machine that uses the electric sphere to collide and travel their machine in order to provide enough "electrity" to power the power bulb. Assets can be found by searching for my Roblox creator name in Roblox Studios Assets: YoungPabs
+This project was a sole developer position I had for about 3-4 months. This camp was revolved around giving campers a secondary course to move onto and apply the physics they learned in the physics camp. Campers are given an electric sphere asset and a power bulb asset, where they are challenged to create a rube goldberg machine that uses the electric sphere to collide and travel their machine in order to provide enough "electricity" to power the power bulb. Assets can be found by searching for my Roblox creator name in Roblox Studios Assets: YoungPabs
 
 ![Rube Gold: 0]({{site.baseurl}}/assets/images/portfolio/electric_assets.png)
 
