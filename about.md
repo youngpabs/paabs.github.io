@@ -4,11 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-Hi there! Thanks for checking this website out. I'm a soon to be graduated Computer Science major located in Seattle, WA with a dream to make a difference in world with my work and on those around me. I hope to dabble in different areas of technology to figure out what I enjoy and would be good at within the field! I wanted to make this site as both a portfolio and tracker of the things I have worked on and my project plans at the moment. 
+Hi there! Thanks for checking this website out. I'm a new grad Computer Scientist located in Seattle, WA with a dream to make a difference in world with my work and on those around me. I hope to dabble in different areas of technology to figure out what I enjoy and would be good at within the field! I see myself as a sort of creative engineer, blending my passions for the arts and bringing them to live digitally through programming. 
 
-### Software
+### Frameworks
 
-With software engineering, I have heavy interest with UI Design, Machine Learning, and Graphics Programming. One of my current projects is my Senior Capstone Project. I'll be working with web-scraping algorithms, database management, and UI design for a client-side application. 
 **Constantly using**
 - C++
 - Javascript
@@ -16,6 +15,7 @@ With software engineering, I have heavy interest with UI Design, Machine Learnin
 - C#
 - LUA
 - Python
+- Adobe Creative Suite
 
 **Experience with**
 - HTML
@@ -30,13 +30,14 @@ With software engineering, I have heavy interest with UI Design, Machine Learnin
 
 ### Video Games
 
-I have loved video games all of my life and dabbling in development with my current Roblox has peaked my interest in video game design and programming. You can check out some of my Roblox work here in my [portfolio]({{ site.baseurl }}/portfolio/). 
+I have loved video games all of my life and dabbling in development with my current Roblox has peaked my interest in video game design and programming. You can check out some of my Roblox work here in my [portfolio]({{site.baseurl}}/portfolio/). 
  Some of my favorite games include:
  - Pokemon 
  - Fallout New Vegas
  - Skyrim
  - Hollow Knight
- - Stardew Valley
+ - Super Auto Pets
+
 
 ### Hobbies
 
@@ -45,4 +46,4 @@ In my freetime I love cooking, watching content creators, streaming, mechanical 
 ### Contact me
 
 [pablomichael@seattleu.edu](mailto:pablomichael@seattleu.edu) <br />
-Discord: Baahblo#0001
+Discord: baahblo
