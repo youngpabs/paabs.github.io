@@ -7,6 +7,7 @@ permalink: /projects/
 ## Active Projects
 **Twitch Live Streamer Overlays**
 Digital art pieces with moving components allowing for a more expansive and creative visuals using art I created or digitally edited. <br/>
+Best viewed at 1920x1080 monitors or higher <br/>
 [Starting Soon](https://carnelian-gabby-delphinium.glitch.me/overlays/startingSoon/startingSoon.html) <br/>
 [Be right back](https://carnelian-gabby-delphinium.glitch.me/overlays/brb/brb.html)
 
@@ -20,6 +21,10 @@ Chat bot for Twitch used for community inspired commands! Click this [link](http
 Chat bot used for making silly chat interactions on my discord server! 
 
 ## Backlogged Projects
+
+**Flappy Bird Clone** <br />
+This was an idea I had to see if I could recreate a flappy bird game in less than a days time. I managed to re-create the basics of flappy bird with some quick pixel art I made and want to come back to it eventually to give the original flappy bird format a twist.
+[Check it out](https://baahblo.itch.io/avoid-the-rat-irs)
 
 **PixelMon Server** <br />
 An idea I had to create a Minecraft server revolved around the Pixelmon mod trying to replicate a pokemon experience in a custom map with custom quests and more. It's a small team of friends on the project helping with world building and planning for this server. 
